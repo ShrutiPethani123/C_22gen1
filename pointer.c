@@ -39,10 +39,11 @@ void main()
     a - 5 8 9 6 2 3
     b - 5 8 9 6 2 3
 
-3. Make one function for input the array. and print the array
+3. Make one function for input the array and print the array
 
 -> inputArray(array,size)
 -> printArray(array,size)
+
 
 
 */
