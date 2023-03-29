@@ -76,6 +76,7 @@ class Child:public Parent{
     }
 };
 
+
 int main()
 {
 
@@ -86,5 +87,6 @@ int main()
     Child c;
     c.car();
     c.bike();
+
 
 }
